@@ -6,6 +6,7 @@
 ![badge-android](https://img.shields.io/badge/Platform-Android-brightgreen)
 ![badge-ios](https://img.shields.io/badge/Platform-iOS-lightgray)
 ![badge-jvm](https://img.shields.io/badge/Platform-JVM-orange)
+![badge-macOS](https://img.shields.io/badge/Platform-macOS-purple)
 
 MediaQuery for Compose Multiplatform
 
