@@ -1,4 +1,4 @@
-# SafeArea
+# MediaQuery
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/moe.tlaster/mediaquery/badge.svg)](https://maven-badges.herokuapp.com/maven-central/moe.tlaster/mediaquery)
 [![compose-jb-version](https://img.shields.io/badge/compose--jb-1.2.0--alpha01--dev745-blue)](https://github.com/JetBrains/compose-jb)
 ![license](https://img.shields.io/github/license/Tlaster/MediaQuery)
